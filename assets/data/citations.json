@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-23",
   "profile": "BxOb_T8AAAAJ",
-  "total": 352,
+  "total": 367,
   "papers": {
-    "topologyoptimizationviamachinelearninganddeeplearningareview": 291,
-    "deepjeb3ddeeplearningbasedsyntheticjetenginebracketdataset": 46,
+    "topologyoptimizationviamachinelearninganddeeplearningareview": 303,
+    "deepjeb3ddeeplearningbasedsyntheticjetenginebracketdataset": 48,
     "howtotradeoffaestheticsandperformanceingenerativedesign": 7,
     "learningdesignpreferencesthroughdesignfeatureextractionandweightedensemble": 4,
-    "performancecomparisonofdesignoptimizationanddeeplearningbasedinversedesign": 3,
+    "performancecomparisonofdesignoptimizationanddeeplearningbasedinversedesign": 4,
     "deepgenerativedesign": 1
   }
 }
